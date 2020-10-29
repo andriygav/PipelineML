@@ -5,7 +5,7 @@ PipelineML
 ===========
 Instalation
 ===========
-Подробная инструкция доступна на сайте <https://docs.metaflow.org/getting-started/install>`_.
+Подробная инструкция доступна на `сайте <https://docs.metaflow.org/getting-started/install>`_.
 
 Устанавка из PyPi:
 
@@ -20,7 +20,7 @@ Instalation
 HelloWorld
 ----------
 
-Простой пример из документации <https://docs.metaflow.org/getting-started/tutorials>`_ загружен в файл `helloworld.py`.
+Простой пример из `документации <https://docs.metaflow.org/getting-started/tutorials>`_ загружен в файл `helloworld.py`.
 
 Для отображения графа используется команда:
 
